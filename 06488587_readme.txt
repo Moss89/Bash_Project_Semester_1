@@ -1,0 +1,23 @@
+To run my code, first go to (or create a folder) called COMP30640Project, and place the scripts
+inside. 
+
+Start a server with ./server.sh
+
+In another window, start a client with ./client.sh and enter an ID.
+
+Then you can enter enter create_database, create_table, insert, select, exit, or shutdown.
+
+create_database needs a database name.
+
+create_table needs a database name, table name, and column names delimited with commas.
+
+insert needs a database name, table name, and column data delimited with commas.
+
+select needs a database name, table name, and can also accept column data, numbers or words, 
+delimited by commas, if you wish to search for specific data.
+
+Exit will close the client, and shutdown will close the server.
+
+If any more detail is needed, the report goes into extensive details on how I did the project.
+
+Thanks, and have a great holiday!
